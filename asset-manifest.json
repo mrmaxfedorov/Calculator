@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Password-Generator/static/js/main.849f0519.js",
+    "static/js/787.7da6eb2c.chunk.js": "/Password-Generator/static/js/787.7da6eb2c.chunk.js",
+    "index.html": "/Password-Generator/index.html",
+    "main.849f0519.js.map": "/Password-Generator/static/js/main.849f0519.js.map",
+    "787.7da6eb2c.chunk.js.map": "/Password-Generator/static/js/787.7da6eb2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.849f0519.js"
+  ]
+}
